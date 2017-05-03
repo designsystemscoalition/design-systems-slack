@@ -99,7 +99,6 @@ We are greatly appreciative of the multiple sources that we drew from to build t
 
 * [TTS Code of Conduct](https://github.com/18F/code-of-conduct)
 * [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
-
 * [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
 * [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
 * [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
