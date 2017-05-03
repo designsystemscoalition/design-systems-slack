@@ -39,7 +39,7 @@ We strive to create a welcoming and inclusive culture that encourages people to 
 * Encourage other people to listen as much as they speak.
 * Respect each others time by doing research before asking questions that have been addressed before or in other channels. 
 
-## Unacceptable behavior:
+## Unacceptable behavior
 
 To help participants understand behaviors that are unacceptable or run counter to our culture, we’ve listed below actions that violate our Code of Conduct policy. 
 
@@ -83,7 +83,7 @@ Participants asked to stop any inappropriate or harassing behavior must comply i
 
 If a participant engages in harassing behavior, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
 
-## Message retention:
+## Message retention
 
 Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of Design Systems Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
