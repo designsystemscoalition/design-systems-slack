@@ -57,7 +57,6 @@ This list does not cover every case. Each person you interact with is unique, an
 * Continued one-on-one communication after requests to cease
 * Constant private messaging to pick people’s brains rather than having open conversations in public channels
 * Publication of non-harassing private communication
-* Sustained disruption of discussions.
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
 	* Patronizing language or behavior
