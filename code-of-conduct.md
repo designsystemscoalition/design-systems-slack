@@ -1,6 +1,18 @@
 Design Systems Slack Code of Conduct
 ===============================
 
+## Table of contents
+- [Welcome](#welcome)
+  - [Admins](#admins)
+- [What we strive for](#what-we-strive-for)
+- [Unacceptable behavior](#unacceptable-behavior)
+  - [Harassment includes](#harassment-includes)
+- [Reporting](#reporting)
+- [Consequences](#consequences)
+- [Message retention](#message-retention)
+- [Privacy](#privacy)
+- [Credits and license](#credits-and-license)
+
 ## Welcome!
 
 The purpose of the Design Systems Slack to promote the discussion of design systems, style guides, component libraries, and pattern libraries.
@@ -71,7 +83,7 @@ Participants asked to stop any inappropriate or harassing behavior must comply i
 
 If a participant engages in harassing behavior, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
 
-## Message Retention:
+## Message retention:
 
 Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of Design Systems Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
@@ -79,7 +91,7 @@ Because this is a free slack account, we have restricted scrollback, but Slack--
 
 **Please be mindful that things you say here may at some point become public**. This is a public slack. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-## Credits and License
+## Credits and license
 
 _[This work is available to you to use, publish, and modify under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). Please keep the paragraph below attached to your final version.]_
 
