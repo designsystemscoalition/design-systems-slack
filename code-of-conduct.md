@@ -24,6 +24,7 @@ The current admins are:
 * Jina Anne - @jina
 * Maya Benari - @maya
 * Nathan Curtis - @nathancurtis
+* Anna Debenham - @anna
 * Una Kravets - @una
 * Josh Silverman - @josh
 
