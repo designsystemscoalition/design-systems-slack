@@ -39,6 +39,7 @@ We strive to create a welcoming and inclusive culture that encourages people to 
 * Ask questions, and seek to understand each other's context.
 * Encourage other people to listen as much as they speak.
 * Respect each others time by doing research before asking questions that have been addressed before or in other channels. 
+* Be open and honest about your intentions (particularly important for those sharing resources).
 
 ## Unacceptable behavior
 
@@ -70,6 +71,10 @@ This list does not cover every case. Each person you interact with is unique, an
 	* Referring to an individual in a way that demeans or challenges the validity of their racial identity
 	* Mocking someone’s real or perceived accent or first language.
 * Retaliating against anyone who files a complaint that someone has violated this code of conduct.
+
+### Open & Honest Sharing
+
+When it comes to sharing resources, please be open and honest about any costs associated with using the resource. If there is a price, or if there is a sign up form (which comes at a cost at providing personal information), then that needs to be made very clear when announcing.
 
 ## Reporting
 
