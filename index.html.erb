@@ -1,0 +1,43 @@
+---
+title: 'Design Systems Slack'
+description: 'A community for design systems practitioners.'
+---
+
+<div class="uik-l-grid uik-l-grid--gutters-x-large uik-l-grid--full uik-l-large-grid--fit">
+  <section class="uik-l-grid__cell">
+    <form method="POST" action="http://designsystems.herokuapp.com/invite" id="join-form" class="form">
+      <fieldset>
+        <legend>
+          <label for="slack-email">Enter your email to join.</label>
+        </legend>
+
+        <div class="uik-c-input-button-group">
+          <input class="uik-c-input" type="text" name="email" placeholder="Enter Your Email Address" id="slack-email" />
+
+          <button class="uik-c-button" type="submit">Join</button>
+        </div>
+      </fieldset>
+    </form>
+
+    <script>
+      var tokenRequired = false;
+      var form = document.getElementById('join-form');
+      var email = document.getElementById('slack-email');
+      var token = document.getElementById('slack-token');
+
+      form.addEventListener('submit', function(evt) {
+        if (!email.value) {
+          evt.preventDefault();
+        }
+
+        if (tokenRequired && !token.value) {
+          evt.preventDefault();
+        }
+      });
+    </script>
+  </section>
+
+  <section class="uik-l-grid__cell">
+    <%= partial "code-of-conduct" %>
+  </section>
+</div>
