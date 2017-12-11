@@ -1,5 +1,8 @@
-Design Systems Slack Code of Conduct
-===============================
+---
+title: Design Systems Slack Code of Conduct
+---
+
+# Code of Conduct
 
 ## Table of contents
 - [Welcome](#welcome)
