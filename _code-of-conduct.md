@@ -26,11 +26,11 @@ form. Participants asked to stop any harassing behavior are expected to comply
 immediately.
 
 #### Admins
-The current admins are:
+The current admins (and their Design Systems Slack handles) are:
 
 * Jina Anne - @jina
 * Maya Benari - @maya
-* Nathan Curtis - @nathancurtis
+* Nathan Curtis - @nathanacurtis
 * Anna Debenham - @anna
 * Una Kravets - @una
 * Josh Silverman - @josh
