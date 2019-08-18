@@ -34,6 +34,8 @@ The current admins (and their Design Systems Slack handles) are:
 * Anna Debenham - @anna
 * Una Kravets - @una
 * Josh Silverman - @josh
+* Mina Markham — @mina
+* Dan Mall — @danmall
 
 
 ### What we strive for
