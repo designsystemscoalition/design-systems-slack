@@ -4,35 +4,24 @@ description: 'A community for design systems practitioners.'
 ---
 
 <div class="uik-l-grid uik-l-grid--gutters-x-large uik-l-grid--full uik-l-large-grid--fit">
-  <section class="uik-l-grid__cell">
-    <p>
-      Email Jina at
-      <script type="text/javascript">
-      //<![CDATA[
-      <!--
-      var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
-      "x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
-      " r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!97{)rt{y+xx=l;=+;" +
-      "lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
-      "\"(2),5\\\"\\\\7k17\\\\\\\\duunf+4t +002;QnTY^Oy^YY__\\\\n1\\\\02\\\\\\\\Pn" +
-      "F^rd\\\\\\\\B@DK5m00\\\\\\\\0z03\\\\\\\\OAHV?TR<am2a02\\\\\\\\\\\\.\\\\\\\\" +
-      "4\\\\02\\\\\\\\16\\\\0Y\\\\35\\\\03\\\\00\\\\\\\\37\\\\03\\\\00\\\\\\\\32\\" +
-      "\\0:\\\\5O00\\\\\\\\23\\\\0n\\\\\\\\\\\\04\\\\07\\\\01\\\\\\\\31\\\\00\\\\0" +
-      "3\\\\\\\\2U03\\\\\\\\05\\\\02\\\\00\\\\\\\\22\\\\06\\\\02\\\\\\\\35\\\\00\\" +
-      "\\02\\\\\\\\7L01\\\\\\\\07\\\\06\\\\8-3803\\\\\\\\7;=1:l? 0;m=22\\\\0p\\\\." +
-      "*!8&hgz-l$.V4JL22\\\\0O\\\\\\\\T\\\\\\\\U\\\\UBPZ\\\"\\\\f(;} ornture;}))++" +
-      "(y)^(iAtdeCoarchx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)yy)2+(5i>f({i+)i+l;i<0" +
-      ";i=r(foh;gten.l=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\")"         ;
-      while(x=eval(x));
-      //-->
-      //]]>
-      </script>
-      acknowledging that you have read and accept the code of conduct, and she
-      will send you an invite as soon as possible.
-    </p>
-  </section>
+	<section class="uik-l-grid__cell">
+		<form method="POST" action="https://uselinefeed.com/workspaces/d3df7a94-a2cb-4f9f-92c3-878dbfea1408/applications" id="join-form" class="form">
+			<fieldset>
+				<legend>
+					<label for="slack-email">Enter your email to join.</label>
+				</legend>
 
-  <section class="uik-l-grid__cell">
-    <%= partial "code-of-conduct" %>
-  </section>
+				<div class="uik-c-input-button-group">
+					<input class="uik-c-input" type="email" name="email" placeholder="Enter Your Email Address" id="slack-email" />
+					<input name="redirect" type="hidden" value="http://design.systems/thanks/" />
+
+					<button class="uik-c-button" type="submit">Join</button>
+				</div>
+			</fieldset>
+		</form>
+	</section>
+
+	<section class="uik-l-grid__cell">
+		<%= partial "code-of-conduct" %>
+	</section>
 </div>
