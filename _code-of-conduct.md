@@ -31,11 +31,9 @@ The current admins (and their Design Systems Slack handles) are:
 * Jina Anne - @jina
 * Maya Benari - @maya
 * Nathan Curtis - @nathanacurtis
-* Anna Debenham - @anna
-* Una Kravets - @una
-* Josh Silverman - @josh
 * Mina Markham — @mina
-* Dan Mall — @danmall
+* Donnie D'Amato
+* Kaelig Deloumeau-Prigent — @kaelig
 
 
 ### What we strive for
